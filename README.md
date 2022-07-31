@@ -4,13 +4,13 @@
 
 ### PWN
 
-RANDOM    50points
+RANDOM    50points(https://github.com/mcpivoy/TFC-CTF-2022-Writeup/tree/main/Pwn/RANDOM)
 
-WINNER    50points
+WINNER    50points(https://github.com/mcpivoy/TFC-CTF-2022-Writeup/tree/main/Pwn/WINNER)
 
-LOST    338 points
+LOST    338 points(https://github.com/mcpivoy/TFC-CTF-2022-Writeup/tree/main/Pwn/LOST)
 
-THREADZ 385 points
+THREADZ 385 points(https://github.com/mcpivoy/TFC-CTF-2022-Writeup/tree/main/Pwn/THREADZ)
 
 ### CRYPTO
 
