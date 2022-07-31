@@ -9,3 +9,8 @@ WINNER    50points
 LOST    338 points
 
 THREADZ 385 points
+
+
+# Competition Results:
+Scored: 300 points
+Placed: 488 place
