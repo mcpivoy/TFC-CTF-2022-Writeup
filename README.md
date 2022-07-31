@@ -1,6 +1,7 @@
 # TFC-CTF-2022-Writeup
 
 在这次比赛中我所完成的题目
+PWN
 
 RANDOM    50points
 
@@ -12,5 +13,6 @@ THREADZ 385 points
 
 
 # Competition Results:
-Scored: 300 points
-Placed: 488 place
+Scored: 1223 points
+
+Placed: 156 place
